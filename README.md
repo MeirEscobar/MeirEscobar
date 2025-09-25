@@ -1,16 +1,73 @@
-## Hi there 👋
+## Hi there 👋 I'm Meir 🧙‍♂️
 
-<!--
-**MeirEscobar/MeirEscobar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGh4ZDZ0YWg5ZmI2dDRnb3pyb2w4MW8wbWJrYnVjNjQwOG01cmlrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CF76UXsZXRZle/giphy.gif" alt="Welcome Illustration" width="500">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚡ Quick Summary
+
+I am currently training as a **full-stack Developer** at <a href='github.com/4geeksacademy'>4Geeks Academy</a>, with a strong focus on:
+
+<ul>
+  <li>Web Development 🕸️💻</li>
+  <li>Video Games / Gaming 🎮🕹️</li>
+  <li>Cybersecurity 🛡️🔒</li>
+  <li>Art 🎨🖼️</li>
+  <li>Philosophy 🧠🤔</li>
+</ul>
+
+---
+
+## 🛠️ Technical Skills and Tools
+
+This is the main section to showcase your stack using **Skill Badges/Icons**. (You can use services like [Skill Icons](https://skillicons.dev/) or [Shields.io](https://shields.io/) to generate these images).
+
+### 🌐 Frontend Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
+</p>
+
+### 💻 Backend Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,nodejs,flask" />
+</p>
+
+### 💾 Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql," />
+</p>
+
+### ⚙️ Tools and Others
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+
+## ✨ My GitHub Stats
+
+### Contributions and Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meirescobar&theme=dark" alt="GitHub Streak Stats" />
+</p>
+
+### Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meirescobar&layout=compact&theme=radical" alt="Top Languages Stats" />
+</p>
+
+---
+
+## 📬 Connect With Me
+
+<p>
+  Feel free to reach out for collaborations or just to say hello!
+  <br>
+  <strong>4Geeks Academy GitHub:</strong> <a href="https://github.com/4GeeksAcademy" target="_blank">4GeeksAcademy</a>
+  <br>
+  <strong>LinkedIn:</strong> <a href='https://www.linkedin.com/in/meirescobar/'>[LinkedIn]</a>
+</p>
