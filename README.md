@@ -22,9 +22,6 @@ I am currently training as a **full-stack Developer** at <a href='github.com/4ge
 ---
 
 ## 🛠️ Technical Skills and Tools
-
-This is the main section to showcase your stack using **Skill Badges/Icons**. (You can use services like [Skill Icons](https://skillicons.dev/) or [Shields.io](https://shields.io/) to generate these images).
-
 ### 🌐 Frontend Development
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
