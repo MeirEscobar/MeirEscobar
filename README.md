@@ -45,12 +45,6 @@ I am currently training as a **full-stack Developer** at <a href='github.com/4ge
 
 ## ✨ My GitHub Stats
 
-### Contributions and Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meirescobar&theme=dark" alt="GitHub Streak Stats" />
-</p>
-
 ### Top Languages
 
 <p align="center">
